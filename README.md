@@ -1,2 +1,2 @@
 # NBN1-PROJECT
-Coding is a journye
+Coding is a journey
